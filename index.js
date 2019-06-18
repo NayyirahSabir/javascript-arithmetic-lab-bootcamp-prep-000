@@ -1,5 +1,5 @@
 var number = 2 
 
-function add3() {
+function add() {
   number += 5
 }
