@@ -1,1 +1,1 @@
-parseInt('a', b)
+parseInt('2', 10)
