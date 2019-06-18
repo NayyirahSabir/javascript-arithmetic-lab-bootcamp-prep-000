@@ -1,4 +1,2 @@
 
-function makeInt(n) {
-  number += n
-}
+function add(a, b) 
