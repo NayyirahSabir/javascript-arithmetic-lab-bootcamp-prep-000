@@ -1,5 +1,3 @@
-var number = 2 
-
-function add() {
-  return number += 7
+function adda() {
+  return number += b
 }
