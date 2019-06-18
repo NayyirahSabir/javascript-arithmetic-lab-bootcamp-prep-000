@@ -16,5 +16,5 @@ function divide(a, b) {
 }
 
 function inc(n){
-  return makeInt(n)
+  return parseInt(n)
 }
