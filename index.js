@@ -1,5 +1,1 @@
-var number = 2 
-
-function add5() {
-  number +=
-}
+1 + 2 
