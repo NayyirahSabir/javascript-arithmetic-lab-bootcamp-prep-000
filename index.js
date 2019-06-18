@@ -1,1 +1,1 @@
-parseInt(a, b)
+parseInt('a', b)
