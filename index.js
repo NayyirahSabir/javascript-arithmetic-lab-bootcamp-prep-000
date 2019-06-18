@@ -31,4 +31,4 @@ function preserveDecimal(n){
   return parseFloat(n)
 }
 
-makeInt('n', 10)
+function makeInt('n', 10)
