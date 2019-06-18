@@ -1,4 +1,4 @@
 
 function add(a, b) {
-  number += n
+  return a += b
 }
